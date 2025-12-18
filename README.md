@@ -1,2 +1,2 @@
 # tetsu-rs
-Tetsu: Rust-based networking platofrm
+Tetsu: Rust-based networking platform
